@@ -1,9 +1,8 @@
 let student = {
     fee: 600_000,
     getTax: () => {
-        let fee = student.fee
         let total = 0 
-        let result = parseInt(fee)*10/100 + total
+        let result = parseInt(student.fee)*10/100 + total
         return result
         
     }
