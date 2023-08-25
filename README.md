@@ -1,0 +1,1 @@
+# JS-OBJ-ARR-FUNC
