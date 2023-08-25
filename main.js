@@ -4,4 +4,4 @@ let student = {
         let result = `parseInt ${ fee} * 10/100`
     }
 }
-c
+console.log(result)
