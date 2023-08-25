@@ -5,4 +5,3 @@ let student = {
     }
 }
 console.log(student.fee * 10/ 100) 
-co
