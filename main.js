@@ -5,4 +5,4 @@ let student = {
         return result
     }
 }
-console.log(getTax);
+console.log(result);
